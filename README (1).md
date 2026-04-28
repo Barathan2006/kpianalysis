@@ -116,7 +116,7 @@ jupyter notebook fashion_analysis.ipynb
 
 **Your Name**
 [![GitHub](https://img.shields.io/badge/GitHub-Barathan2006-black?style=flat&logo=github)](https://github.com/Barathan2006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/barathan-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/barathan--s)
 
 ---
 
