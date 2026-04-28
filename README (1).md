@@ -115,7 +115,7 @@ jupyter notebook fashion_analysis.ipynb
 ## 🙋 Author
 
 **Your Name**
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=flat&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Barathan2006-black?style=flat&logo=github)](https://github.com/Barathan2006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 
 ---
